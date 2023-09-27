@@ -10,6 +10,7 @@ Un simple repo qui me permet de garder en notes les configs pour mes installatio
 - newsboat --Blog/Youtube/Podcast
 - flameshot --Screenshots
 - mpv --Lecteur Vidéo
+- w3m --Browser pour le terminal et l'affichage d'image dans ranger
 - ranger --Document manager
 - pywal --Palettes de couleurs
 - weechat --IRC/MatterMost/FB Messenger/Discord
