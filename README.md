@@ -18,6 +18,7 @@ Un simple repo qui me permet de garder en notes les configs pour mes installatio
 - ytfzf --Recherche YT
 - yt-dlp --DL YT
 - vhs --Gif de terminal
+- picom --Transparence
 
 ## Config i3
 - La majorité des réglages de base me conviennent. Par contre, j'utilise un vieux clavier IBM qui n'a pas de touche Windows. Je dois donc utiliser le Alt gauche comme touche mod
